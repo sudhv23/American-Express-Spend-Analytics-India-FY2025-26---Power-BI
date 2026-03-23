@@ -70,9 +70,9 @@ The dashboard is designed to simulate how analytics teams in the **FinTech / Pay
 ## 🛠️ Tools & Technologies
 
 - **Power BI**
-- **Power Query **
+- **Power Query**
 - **DAX (Data Analysis Expressions)**
-- Data Modeling & Visualization
+- **Data Modeling & Visualization**
 
 ---
 
